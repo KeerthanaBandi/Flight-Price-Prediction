@@ -1,1 +1,2 @@
 # project-sribandi-pgunnam-cdevabha
+Abstract: Air travel has evolved into a popular, necessary, and quick mode of transportation owing to the ever-increasing connectivity of air routes around the globe. For airlines, predicting prices is a crucial yet difficult task because prices are always fluctuating and are known to depend on a wide range of factors. In this project, we employ a machine learning regression approach to forecast flight fares by using simple information such as the airline name, source, destination, number of stops, and departure and arrival times.
